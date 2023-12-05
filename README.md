@@ -16,3 +16,5 @@ Applied concepts for a good programming architecture:
 - Camera X
 - Animations
 - UnitTest y UITest
+
+-> Compose is not used in this project

@@ -2,6 +2,7 @@
 
 ## Intermediate course
 
+Applied concepts for a good programming architecture:
 <br />
 - MVVM architecture and clean code
 - Fragments
@@ -15,5 +16,3 @@
 - Camera X
 - Animations
 - UnitTest y UITest
-
----
